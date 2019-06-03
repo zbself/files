@@ -1,2 +1,2 @@
 # files
-![Image text](https://zbself.github.io/files/Shadowrocket/ss.png)
+![Image text](https://raw.githubusercontent.com/zbself/files/master/Shadowrocket/ss.png)
